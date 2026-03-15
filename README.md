@@ -39,3 +39,30 @@ npm install
 # Install backend
 cd ../backend
 npm install
+
+Setup Environment
+Backend (.env):
+
+MONGODB_URI=mongodb://localhost:27017/gazi-online
+JWT_SECRET=your-secret-key
+PORT=5000
+FRONTEND_URL=http://localhost:3000
+
+Start Development
+
+# Terminal 1 - Backend
+cd backend
+npm start
+
+# Terminal 2 - Frontend
+cd frontend
+npm run dev
+
+Open http://localhost:3000
+🛠️ Tech Stack
+Frontend: Next.js 15, TypeScript, Tailwind CSS, Framer Motion, next-intl
+Backend: Express.js, MongoDB, JWT, bcryptjs, Helmet
+📞 Support
+Next.js Docs: https://nextjs.org/docs
+MongoDB Atlas: https://docs.atlas.mongodb.com
+Made with ❤️ for Gazi Online
