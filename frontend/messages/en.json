@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "title": "Gazi Online - Digital Service Center",
+    "description": "Your local digital and banking service center. Electricity bill, mobile recharge, banking services and more."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact",
+    "admin": "Admin"
+  },
+  "hero": {
+    "title": "Your Trusted Digital Service Center",
+    "subtitle": "Gazi Online",
+    "description": "Electricity bills, mobile recharge, banking services, photo printing and all internet services under one roof. Fast, secure and reliable service.",
+    "visitShop": "Visit Our Shop",
+    "contactWhatsApp": "Contact on WhatsApp",
+    "getService": "Get Service Now"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "All Types of Digital Services",
+    "digital": "Digital Services",
+    "banking": "Banking Services",
+    "internet": "Internet Services",
+    "getIt": "Get It",
+    "items": {
+      "electricBill": { "title": "Electric Bill Payment", "desc": "Quick and secure electricity bill payment" },
+      "mobileRecharge": { "title": "Mobile Recharge", "desc": "Instant recharge for all operators" },
+      "phonepe": { "title": "PhonePe Payment", "desc": "Send and receive money via PhonePe" },
+      "gpay": { "title": "Google Pay Payment", "desc": "Secure transactions with Google Pay" },
+      "photoPrint": { "title": "Photo Print", "desc": "High-quality photo printing service" },
+      "documentScan": { "title": "Document Scan", "desc": "Professional document scanning" },
+      "xerox": { "title": "Xerox", "desc": "Fast and clear copying service" },
+      "internet": { "title": "All Internet Services", "desc": "Form filling, applications and more" },
+      "accountOpen": { "title": "Account Opening", "desc": "Assistance with bank account opening" },
+      "cashWithdrawal": { "title": "Cash Withdrawal", "desc": "Easy cash withdrawal service" },
+      "cashDeposit": { "title": "Cash Deposit", "desc": "Secure cash deposit service" },
+      "loan": { "title": "Loan Services", "desc": "Loan application and consultation" }
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Gazi Online",
+    "description": "Gazi Online is your local digital service center. We have been providing trusted services to our customers since 2018.",
+    "mission": { "title": "Our Mission", "text": "To provide every customer with fast, secure and affordable digital services." },
+    "vision": { "title": "Our Vision", "text": "To become the best digital service provider in our area." },
+    "stats": { "customers": "Happy Customers", "services": "Services", "experience": "Years Experience" }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in Touch",
+    "form": {
+      "name": "Your Name",
+      "phone": "Phone Number",
+      "service": "Select Service",
+      "message": "Message",
+      "submit": "Send",
+      "success": "Your message has been sent successfully!",
+      "error": "Something went wrong. Please try again."
+    },
+    "info": { "address": "Address", "phone": "Phone", "email": "Email", "hours": "Opening Hours" },
+    "whatsapp": { "title": "Chat on WhatsApp", "button": "Chat Now" }
+  },
+  "testimonials": { "title": "Customer Testimonials", "subtitle": "What People Say" },
+  "footer": { "rights": "All Rights Reserved", "tagline": "Your Trusted Digital Service Center" },
+  "admin": {
+    "login": { "title": "Admin Login", "username": "Username", "password": "Password", "submit": "Login", "error": "Invalid credentials" },
+    "dashboard": { "title": "Admin Dashboard", "inquiries": "Inquiries", "logout": "Logout", "noData": "No data available" }
+  },
+  "common": { "loading": "Loading...", "close": "Close", "send": "Send", "cancel": "Cancel", "save": "Save" }
+}
